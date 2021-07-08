@@ -5,7 +5,7 @@
 
 We also listed some resources (such as: plugins, mods, maps, versions, JARs, engines, codes, etc.) in the **`<> Code`** section.
 
-The main Guide will be fully explained in the **`[] Wiki`** section, this README file will only shortly introduce you to the Minecraft Scripting zone, if you consider an amateur, we highly recommend to start from the Wiki section.
+The main Guide will be fully explained in the **`[|] Wiki`** section, this README file will only shortly introduce you to the Minecraft Scripting zone, if you consider an amateur, we highly recommend to start from the Wiki section.
 
 
 
