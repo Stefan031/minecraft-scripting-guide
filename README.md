@@ -1,4 +1,5 @@
-# Minecraft Scripting Guide
+Minecraft Scripting Guide
+=========================
 
 > This guide will teach you step by step how to make, develop, maintain a minecraft server.
 > For any help you can contact the Organization Contact Email or submit a new issue for Staff's Help.
@@ -9,7 +10,6 @@ The main Guide will be fully explained in the **`[|] Wiki`** section, this READM
 
 
 
-Preparation
-======================
+## Preparation
 In order to start creating a free Minecraft Server, we'll need to find a free host provider.
 Here's a list with some free host providers for Minecraft Servers.
