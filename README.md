@@ -5,6 +5,8 @@ For any help you can contact the Organization Contact Email or submit a new issu
 
 We also listed some resources (such as: plugins, mods, maps, versions, JARs, engines, codes, etc.) in the **`<> Code`** section.
 
+
+
 ## Preparation
 In order to start creating a free Minecraft Server, we'll need to find a free host provider.
 Here's a list with some free host providers for Minecraft Servers.
