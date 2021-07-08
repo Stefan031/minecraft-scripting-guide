@@ -10,6 +10,6 @@ The main Guide will be fully explained in the **`[|] Wiki`** section, this READM
 
 
 
-## Preparation
-In order to start creating a free Minecraft Server, we'll need to find a free host provider.
-Here's a list with some free host providers for Minecraft Servers.
+## Introduction
+
+Minecraft Servers
